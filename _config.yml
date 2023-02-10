@@ -31,8 +31,8 @@ github_username:  nwingwill
 
 # Build settings
 #theme: minima
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
+#theme:  minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.9.0"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 defaults:
