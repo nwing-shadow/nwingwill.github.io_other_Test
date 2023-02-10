@@ -16,5 +16,5 @@ main:
 #    url: https://google.com
   - title: "Home"
     url: /
-  - title: "Test Page"
+  - title: "News Tips & Tricks"
     url: _pages/
